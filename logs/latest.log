@@ -1,0 +1,84 @@
+[20:23:03] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[20:23:06] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:23:06] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:23:06] [ServerMain/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:23:06] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:23:06] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:23:07] [Worker-Main-21/INFO]: Loaded 7 recipes
+[20:23:08] [Worker-Main-21/INFO]: Loaded 1141 advancements
+[20:23:12] [Server thread/INFO]: Starting minecraft server version 1.18.2
+[20:23:12] [Server thread/INFO]: Loading properties
+[20:23:12] [Server thread/INFO]: Default game type: SURVIVAL
+[20:23:12] [Server thread/INFO]: Generating keypair
+[20:23:12] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:23:13] [Server thread/INFO]: Using epoll channel type
+[20:23:34] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[20:23:34] [ServerMain/ERROR]: Failed to start the minecraft server
+ait$a: /home/daltineo/Downloads/servidor/./world/session.lock: already locked (possibly by other Minecraft instance?)
+	at ait$a.a(SourceFile:98) ~[server-1.18.2.jar:?]
+	at ait.a(SourceFile:44) ~[server-1.18.2.jar:?]
+	at dkp$a.<init>(SourceFile:316) ~[server-1.18.2.jar:?]
+	at dkp.c(SourceFile:304) ~[server-1.18.2.jar:?]
+	at net.minecraft.server.Main.main(SourceFile:127) ~[server-1.18.2.jar:?]
+	at net.minecraft.bundler.Main.lambda$run$0(Main.java:54) ~[?:?]
+	at java.lang.Thread.run(Unknown Source) [?:?]
+[Worker-Main-22/INFO]: Preparing spawn area: 0%
+[20:23:18] [Worker-Main-22/INFO]: Preparing spawn area: 0%
+[20:23:18] [Worker-Main-22/INFO]: Preparing spawn area: 0%
+[20:23:18] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[20:23:18] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[20:23:19] [Worker-Main-20/INFO]: Preparing spawn area: 0%
+[20:23:19] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[20:23:19] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[20:23:20] [Worker-Main-22/INFO]: Preparing spawn area: 0%
+[20:23:20] [Worker-Main-19/INFO]: Preparing spawn area: 0%
+[20:23:21] [Worker-Main-16/INFO]: Preparing spawn area: 0%
+[20:23:21] [Worker-Main-16/INFO]: Preparing spawn area: 0%
+[20:23:22] [Worker-Main-19/INFO]: Preparing spawn area: 0%
+[20:23:22] [Worker-Main-20/INFO]: Preparing spawn area: 0%
+[20:23:23] [Worker-Main-18/INFO]: Preparing spawn area: 0%
+[20:23:23] [Worker-Main-18/INFO]: Preparing spawn area: 0%
+[20:23:24] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[20:23:24] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[20:23:25] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[20:23:25] [Worker-Main-20/INFO]: Preparing spawn area: 0%
+[20:23:26] [Worker-Main-16/INFO]: Preparing spawn area: 0%
+[20:23:26] [Worker-Main-16/INFO]: Preparing spawn area: 0%
+[20:23:27] [Worker-Main-16/INFO]: Preparing spawn area: 0%
+[20:23:27] [Worker-Main-18/INFO]: Preparing spawn area: 0%
+[20:23:28] [Worker-Main-22/INFO]: Preparing spawn area: 0%
+[20:23:28] [Worker-Main-22/INFO]: Preparing spawn area: 0%
+[20:23:29] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[20:23:29] [Worker-Main-17/INFO]: Preparing spawn area: 1%
+[20:23:30] [Worker-Main-15/INFO]: Preparing spawn area: 4%
+[20:23:30] [Worker-Main-12/INFO]: Preparing spawn area: 10%
+[20:23:31] [Worker-Main-20/INFO]: Preparing spawn area: 12%
+[20:23:31] [Worker-Main-19/INFO]: Preparing spawn area: 13%
+[20:23:32] [Worker-Main-16/INFO]: Preparing spawn area: 15%
+[20:23:32] [Worker-Main-16/INFO]: Preparing spawn area: 17%
+[20:23:33] [Worker-Main-16/INFO]: Preparing spawn area: 18%
+[20:23:33] [Worker-Main-16/INFO]: Preparing spawn area: 20%
+[20:23:34] [Worker-Main-16/INFO]: Preparing spawn area: 40%
+[20:23:34] [Worker-Main-17/INFO]: Preparing spawn area: 55%
+[20:23:35] [Worker-Main-20/INFO]: Preparing spawn area: 63%
+[20:23:35] [Worker-Main-14/INFO]: Preparing spawn area: 76%
+[20:23:37] [Worker-Main-20/INFO]: Preparing spawn area: 81%
+[20:23:37] [Worker-Main-20/INFO]: Preparing spawn area: 81%
+[20:23:37] [Worker-Main-15/INFO]: Preparing spawn area: 81%
+[20:23:37] [Server thread/INFO]: Time elapsed: 22794 ms
+[20:23:37] [Server thread/INFO]: Done (23.545s)! For help, type "help"
+[20:23:42] [Server thread/INFO]: daltineo[/127.0.0.1:51844] logged in with entity id 158 at (24.5, 73.0, -6.5)
+[20:23:42] [Server thread/INFO]: daltineo joined the game
+[20:23:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2064ms or 41 ticks behind
+[20:24:38] [Server thread/INFO]: daltineo lost connection: Disconnected
+[20:24:38] [Server thread/INFO]: daltineo left the game
+[20:25:04] [Server thread/INFO]: Stopping server
+[20:25:04] [Server thread/INFO]: Saving players
+[20:25:04] [Server thread/INFO]: Saving worlds
+[20:25:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20:25:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[20:25:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[20:25:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:25:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:25:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:25:08] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
